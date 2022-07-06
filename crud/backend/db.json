@@ -17,13 +17,73 @@
     },
     {
       "name": "Lapis Preto Básico",
-      "price": "1.50",
+      "price": "1.55",
       "id": 4
     },
     {
-      "name": "Calculadora",
-      "price": "25.00",
+      "name": "CALCULADORA",
+      "price": "7.85",
       "id": 5
+    },
+    {
+      "name": "CALCULADORA2",
+      "price": "1.55",
+      "id": 6
+    },
+    {
+      "name": "CALCULADORA22",
+      "price": "1.79",
+      "id": 7
+    },
+    {
+      "name": "CALCULADORA222",
+      "price": "1.79",
+      "id": 8
+    },
+    {
+      "name": "CALCULADORA",
+      "price": "1.55",
+      "id": 9
+    },
+    {
+      "name": "CALCULADORA22222",
+      "price": "1.55",
+      "id": 10
+    },
+    {
+      "name": "CALCULADORA2222234",
+      "price": "1.79",
+      "id": 11
+    },
+    {
+      "name": "CALCULADORA22",
+      "price": "8,56",
+      "id": 12
+    },
+    {
+      "name": "CALCULADORA2",
+      "price": "1.55",
+      "id": 13
+    },
+    {
+      "name": "CALCULADORA22",
+      "price": "1.55",
+      "id": 14
+    },
+    {
+      "name": "CALCULADORA22",
+      "price": null,
+      "id": 15
+    },
+    {
+      "name": "CALCULADORA2",
+      "price": null,
+      "id": 16
+    },
+    {
+      "name": "CALCULADORA222",
+      "price": null,
+      "id": 17
     }
   ]
 }
